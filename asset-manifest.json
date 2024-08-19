@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.e12cf2ff.css",
+    "main.js": "/my-app/static/js/main.b6030f6d.js",
+    "static/media/parliament.jpg": "/my-app/static/media/parliament.22dfaacfd26ff9607979.jpg",
+    "static/media/mt-fuji.jpg": "/my-app/static/media/mt-fuji.21529ba20c991f3bac02.jpg",
+    "static/media/opera-house.jpg": "/my-app/static/media/opera-house.8589f451899aa5e3ff13.jpg",
+    "index.html": "/my-app/index.html",
+    "main.e12cf2ff.css.map": "/my-app/static/css/main.e12cf2ff.css.map",
+    "main.b6030f6d.js.map": "/my-app/static/js/main.b6030f6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e12cf2ff.css",
+    "static/js/main.b6030f6d.js"
+  ]
+}
